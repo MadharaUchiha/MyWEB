@@ -1,0 +1,4 @@
+Mam told us to type 
+few lines in empty file 
+and save it . 
+then return yo terminal.
