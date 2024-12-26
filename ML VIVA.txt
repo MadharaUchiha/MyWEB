@@ -1,0 +1,79 @@
+What sparked your interest in Machine Learning and AI?
+
+Can you explain what Machine Learning is in your own words?
+
+What do you hope to achieve by joining the ML & AI Student Forum?
+
+If a clock strikes 12 at noon and then strikes again at midnight, how many times does it strike in total in a 24-hour period?
+
+There are two doors: one leads to freedom, and the other to death. You don't know which is which. Two guards know the truth,
+ but one always lies, and the other always tells the truth. You can ask only one guard one question. What question will you ask?
+
+(Answer: Ask any guard, “If I were to ask the other guard which door leads to freedom, what would they say?” Then, choose the opposite door.)
+
+If you are running a race and you pass the person in second place, what place are you in now?
+
+(Answer: Second place.)
+
+If 8 people shake hands with each other, how many total handshakes occur?
+ans : 28 
+
+If a bat and a ball together cost ₹110, and the bat costs ₹100 more than the ball, how much does the ball cost?
+
+Answer: ₹5
+
+What comes once in a minute, twice in a moment, but never in a thousand years?
+
+Answer: The letter "M"
+
+I have keys but no locks. I have space but no room. You can enter, but you can't go outside. What am I?
+
+Answer: A keyboard
+
+Which word is written incorrectly in the dictionary?
+
+Answer: Incorrectly
+
+If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?
+
+Answer: 5 minutes (Each machine takes 5 minutes to make 1 widget, so 100 machines make 100 widgets in 5 minutes.)
+
+A file of size 1GB needs to be copied over a network connection that can only handle 100MB per second. How long will it take to copy the entire file?
+
+Answer: 10 seconds (1GB = 1000MB, so 1000 ÷ 100 = 10 seconds).
+
+What does HTTP stand for?
+
+Answer: HyperText Transfer Protocol
+
+What is a variable in programming?
+
+Answer: A variable is a container that stores data values which can change during program execution.
+
+What is a program?
+
+Answer: A program is a set of instructions that a computer follows to perform a specific task.
+
+What is an operating system?
+
+Answer: An operating system (OS) is software that manages computer hardware and software resources and provides common services for programs (e.g., Windows, Linux).
+
+What is a file?
+
+Answer: A file is a collection of data or information that is stored on a computer and can be accessed and modified.
+
+What is the difference between RAM and ROM?
+
+Answer: RAM (Random Access Memory) is volatile memory used for temporary storage that is erased when the computer is turned off, while ROM (Read-Only Memory) is non-volatile memory that permanently stores critical data and instructions, such as the computer's BIOS.
+
+What does CPU stand for?
+
+Answer: Central Processing Unit
+
+What is the smallest unit of data in a computer?
+
+Answer: Bit
+
+What is the core of an operating system called?
+
+Answer: Kernel
